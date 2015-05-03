@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install cyberduck
 cask install freemind
 cask install google-chrome
 cask install skype
