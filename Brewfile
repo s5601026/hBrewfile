@@ -5,6 +5,7 @@
 tap caskroom/cask
 install brew-cask
 cask install freemind
+cask install google-chrome
 cask install skype
 
 ## caskroom/versions
