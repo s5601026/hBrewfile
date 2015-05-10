@@ -3,27 +3,28 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install cyberduck
-cask install freemind
-cask install google-chrome
-cask install ifunbox
-cask install iterm2
-cask install onyx
-cask install skype
+brew brew-cask
+cask blender
+cask cyberduck
+cask freemind
+cask google-chrome
+cask ifunbox
+cask iterm2
+cask onyx
+cask skype
 
 ## caskroom/versions
 tap caskroom/versions
-cask install adobe-reader-ja
+cask adobe-reader-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install libevent
-install openssl
-install tmux
+brew libevent
+brew openssl
+brew tmux
 
 # App Store applications
 appstore GarageBand
