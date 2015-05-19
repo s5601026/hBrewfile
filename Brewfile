@@ -16,6 +16,7 @@ cask skype
 ## caskroom/versions
 tap caskroom/versions
 cask adobe-reader-ja
+cask firefox-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
