@@ -16,7 +16,6 @@ cask skype
 
 ## caskroom/versions
 tap caskroom/versions
-cask adobe-reader-ja
 cask firefox-ja
 cask thunderbird-ja
 
