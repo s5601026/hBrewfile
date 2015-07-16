@@ -24,9 +24,14 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew gdbm
 brew libevent
 brew openssl
+brew python3
+brew readline
+brew sqlite
 brew tmux
+brew xz
 
 # App Store applications
 appstore GarageBand
