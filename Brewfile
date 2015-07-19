@@ -25,9 +25,11 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew autoconf
 brew gdbm
 brew libevent
 brew openssl
+brew pkg-config
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
