@@ -28,6 +28,7 @@ brew brew-file
 brew gdbm
 brew libevent
 brew openssl
+brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew readline
