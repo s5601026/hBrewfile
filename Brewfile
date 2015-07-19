@@ -12,6 +12,7 @@ cask google-chrome
 cask ifunbox
 cask iterm2
 cask onyx
+cask pycharm-ce
 cask skype
 
 ## caskroom/versions
@@ -27,7 +28,8 @@ brew brew-file
 brew gdbm
 brew libevent
 brew openssl
-brew python3
+brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
 brew readline
 brew sqlite
 brew tmux
