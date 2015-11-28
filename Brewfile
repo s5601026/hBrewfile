@@ -47,3 +47,4 @@ appstore LINE
 appstore Microsoft Remote Desktop
 appstore Numbers
 appstore Pages
+appstore Slack
