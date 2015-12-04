@@ -28,6 +28,7 @@ brew brew-file
 brew autoconf
 brew gdbm
 brew libevent
+brew makedepend
 brew openssl
 brew pkg-config
 brew pyenv
