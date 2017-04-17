@@ -18,7 +18,6 @@ cask onyx
 cask pycharm-ce
 cask skype
 cask thunderbird
-cask wireshark-chmodbpf
 cask xld
 
 tap caskroom/versions
