@@ -66,7 +66,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 443987910 1Password (6.6.4)
+appstore 443987910 1Password (6.7)
 appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.5)
 appstore 478844335 Janetter (4.3.2)
