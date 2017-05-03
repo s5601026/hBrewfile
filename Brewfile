@@ -69,7 +69,7 @@ brew brew-file
 appstore 443987910 1Password (6.7)
 appstore 682658836 GarageBand (10.1.6)
 appstore 408981434 iMovie (10.1.5)
-appstore 478844335 Janetter (4.3.2)
+appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
 appstore 409183694 Keynote (7.1.1)
 appstore 539883307 LINE (5.1.1)
