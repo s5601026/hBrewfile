@@ -11,6 +11,7 @@ cask cyberduck
 cask firefox
 cask freemind
 cask google-chrome
+cask google-earth
 cask ifunbox
 cask iterm2
 cask onyx
@@ -63,9 +64,6 @@ brew xz
 
 tap rcmdnk/file
 brew brew-file
-
-# Cask applications
-cask google-earth
 
 # App Store applications
 appstore 443987910 1Password (6.7)
