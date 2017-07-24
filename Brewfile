@@ -16,6 +16,7 @@ cask iterm2
 cask onyx
 cask pycharm-ce
 cask skype
+cask slack
 cask thunderbird
 cask xld
 
@@ -78,4 +79,3 @@ appstore 539883307 LINE (5.2.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27312)
 appstore 409203825 Numbers (4.2)
 appstore 409201541 Pages (6.2)
-appstore 803453959 Slack (2.6.2)
