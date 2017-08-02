@@ -23,6 +23,7 @@ cask xld
 tap caskroom/versions
 
 tap homebrew/core
+brew node
 brew sqlite
 brew openssl@1.1
 brew tmux
@@ -40,6 +41,7 @@ brew pyenv-virtualenvwrapper
 brew gettext
 brew pyenv
 brew gmp
+brew ruby-build
 brew glib
 brew python
 brew jq
@@ -56,9 +58,11 @@ brew geoip
 brew dbus
 brew libtasn1
 brew openssl
+brew icu4c
 brew nettle
 brew utf8proc
 brew autoconf
+brew rbenv
 brew awscli
 brew pkg-config
 
