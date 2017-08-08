@@ -17,6 +17,7 @@ cask onyx
 cask pycharm-ce
 cask skype
 cask slack
+cask sublime-text
 cask thunderbird
 cask xld
 
