@@ -42,6 +42,7 @@ brew pyenv-virtualenvwrapper
 brew gettext
 brew pyenv
 brew gmp
+brew mysql@5.6
 brew ruby-build
 brew glib
 brew python
