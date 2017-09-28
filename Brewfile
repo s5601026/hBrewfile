@@ -78,11 +78,11 @@ cask google-earth
 # App Store applications
 appstore 443987910 1Password (6.8.2)
 appstore 682658836 GarageBand (10.2.0)
-appstore 408981434 iMovie (10.1.6)
+appstore 408981434 iMovie (10.1.7)
 appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
 appstore 409183694 Keynote (7.3)
-appstore 539883307 LINE (5.3.0)
+appstore 539883307 LINE (5.3.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.27319)
 appstore 409203825 Numbers (4.3)
 appstore 409201541 Pages (6.3)
