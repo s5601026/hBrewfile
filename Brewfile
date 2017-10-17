@@ -54,6 +54,7 @@ cask cyberduck
 cask firefox
 cask freemind
 cask google-chrome
+cask gyazo
 cask ifunbox
 cask iterm2
 cask onyx
