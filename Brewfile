@@ -8,6 +8,7 @@ brew awscli
 brew c-ares
 brew curl
 brew dbus
+brew freetype
 brew gdbm
 brew geoip
 brew gettext
@@ -16,12 +17,17 @@ brew glib
 brew gmp
 brew gnutls
 brew icu4c
+brew imagemagick
+brew jpeg
 brew jq
 brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libpng
 brew libtasn1
+brew libtiff
+brew libtool
 brew libunistring
 brew libyaml
 brew makedepend
@@ -77,7 +83,7 @@ brew brew-file
 cask google-earth
 
 # App Store applications
-appstore 443987910 1Password (6.8.2)
+appstore 443987910 1Password (6.8.3)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.7)
 appstore 478844335 Janetter (4.4.0)
