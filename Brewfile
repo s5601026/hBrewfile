@@ -45,6 +45,7 @@ brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew python
+brew python3
 brew rbenv
 brew readline
 brew ruby-build
@@ -85,7 +86,7 @@ cask google-earth
 # App Store applications
 appstore 443987910 1Password (6.8.3)
 appstore 682658836 GarageBand (10.2.0)
-appstore 408981434 iMovie (10.1.7)
+appstore 408981434 iMovie (10.1.8)
 appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
 appstore 409183694 Keynote (7.3)
