@@ -55,23 +55,23 @@ brew utf8proc
 brew xz
 
 tap caskroom/cask
-cask atom
-cask blender
-cask cyberduck
-cask firefox
+cask slack
 cask freemind
-cask google-chrome
+cask atom
 cask gyazo
+cask xld
+cask skype
+cask thunderbird
 cask ifunbox
 cask iterm2
-cask onyx
-cask pycharm-ce
-cask sequel-pro
-cask skype
-cask slack
+cask blender
 cask sublime-text
-cask thunderbird
-cask xld
+cask onyx
+cask sequel-pro
+cask cyberduck
+cask firefox
+cask google-chrome
+cask pycharm-ce
 
 tap caskroom/versions
 
@@ -90,9 +90,9 @@ appstore 408981434 iMovie (10.1.8)
 appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
 appstore 409183694 Keynote (7.3.1)
-appstore 539883307 LINE (5.3.3)
+appstore 539883307 LINE (5.4.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 540348655 Monosnap (3.4.5)
+appstore 540348655 Monosnap (3.4.6)
 appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 414298354 ToyViewer (5.5.1)
