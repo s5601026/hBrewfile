@@ -53,6 +53,7 @@ brew readline
 brew ruby-build
 brew sqlite
 brew tmux
+brew tree
 brew utf8proc
 brew xz
 
