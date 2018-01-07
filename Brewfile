@@ -6,8 +6,11 @@ brew ansible
 brew autoconf
 brew awscli
 brew c-ares
+brew cairo
 brew curl
 brew dbus
+brew fontconfig
+brew fontforge
 brew freetype
 brew gdbm
 brew geoip
@@ -16,6 +19,9 @@ brew git
 brew glib
 brew gmp
 brew gnutls
+brew gobject-introspection
+brew graphite2
+brew harfbuzz
 brew icu4c
 brew imagemagick
 brew inetutils
@@ -41,7 +47,9 @@ brew oniguruma
 brew openssl
 brew openssl@1.1
 brew p11-kit
+brew pango
 brew pcre
+brew pixman
 brew pkg-config
 brew pyenv
 brew pyenv-virtualenv
@@ -69,11 +77,13 @@ cask ifunbox
 cask iterm2
 cask blender
 cask sublime-text
+cask discord
 cask onyx
 cask sequel-pro
 cask cyberduck
 cask firefox
 cask google-chrome
+cask xquartz
 cask pycharm-ce
 
 tap caskroom/versions
@@ -82,6 +92,9 @@ tap argon/mas
 
 tap rcmdnk/file
 brew brew-file
+
+tap sanemat/font
+brew ricty
 
 # Cask applications
 cask google-earth
