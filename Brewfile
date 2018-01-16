@@ -71,6 +71,7 @@ cask freemind
 cask atom
 cask gyazo
 cask xld
+cask virtualbox
 cask skype
 cask thunderbird
 cask ifunbox
