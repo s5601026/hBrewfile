@@ -78,7 +78,6 @@ cask ifunbox
 cask iterm2
 cask blender
 cask sublime-text
-cask discord
 cask onyx
 cask sequel-pro
 cask cyberduck
