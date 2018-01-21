@@ -64,6 +64,7 @@ brew tmux
 brew tree
 brew utf8proc
 brew xz
+brew yarn
 
 tap caskroom/cask
 cask slack
