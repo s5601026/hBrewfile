@@ -71,6 +71,7 @@ cask slack
 cask freemind
 cask atom
 cask gyazo
+cask drawio
 cask xld
 cask virtualbox
 cask skype
