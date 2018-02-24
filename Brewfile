@@ -102,7 +102,7 @@ brew ricty
 cask google-earth
 
 # App Store applications
-appstore 443987910 1Password (6.8.6)
+appstore 443987910 1Password (6.8.7)
 appstore 682658836 GarageBand (10.2.0)
 appstore 408981434 iMovie (10.1.8)
 appstore 478844335 Janetter (4.4.0)
