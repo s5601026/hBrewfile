@@ -55,7 +55,7 @@ brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew python
-brew python3
+brew python@2
 brew rbenv
 brew readline
 brew ruby-build
