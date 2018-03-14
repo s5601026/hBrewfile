@@ -12,6 +12,7 @@ brew dbus
 brew fontconfig
 brew fontforge
 brew freetype
+brew fribidi
 brew gdbm
 brew geoip
 brew gettext
