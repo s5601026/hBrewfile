@@ -99,7 +99,7 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
-# Cask applications
+# Other Cask applications
 cask google-earth
 
 # App Store applications
