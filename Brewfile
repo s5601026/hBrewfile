@@ -68,26 +68,26 @@ brew xz
 brew yarn
 
 tap caskroom/cask
-cask slack
-cask freemind
 cask atom
-cask gyazo
+cask blender
+cask cyberduck
 cask drawio
-cask xld
-cask virtualbox
-cask skype
-cask thunderbird
+cask firefox
+cask freemind
+cask google-chrome
+cask gyazo
 cask ifunbox
 cask iterm2
-cask blender
-cask sublime-text
 cask onyx
-cask sequel-pro
-cask cyberduck
-cask firefox
-cask google-chrome
-cask xquartz
 cask pycharm-ce
+cask sequel-pro
+cask skype
+cask slack
+cask sublime-text
+cask thunderbird
+cask virtualbox
+cask xld
+cask xquartz
 
 tap caskroom/versions
 
