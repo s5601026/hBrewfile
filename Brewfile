@@ -86,6 +86,7 @@ cask slack
 cask sublime-text
 cask thunderbird
 cask virtualbox
+cask visual-studio-code
 cask xld
 cask xquartz
 
