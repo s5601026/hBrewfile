@@ -78,6 +78,8 @@ cask google-chrome
 cask gyazo
 cask ifunbox
 cask iterm2
+cask java
+cask kindle
 cask onyx
 cask pycharm-ce
 cask sequel-pro
@@ -85,7 +87,6 @@ cask skype
 cask slack
 cask sublime-text
 cask thunderbird
-cask virtualbox
 cask visual-studio-code
 cask xld
 cask xquartz
@@ -110,7 +111,7 @@ appstore 408981434 iMovie (10.1.9)
 appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
 appstore 409183694 Keynote (8.0)
-appstore 539883307 LINE (5.6.1)
+appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 540348655 Monosnap (3.4.11)
 appstore 409203825 Numbers (5.0)
