@@ -20,6 +20,7 @@ brew git
 brew glib
 brew gmp
 brew gnutls
+brew go
 brew gobject-introspection
 brew graphite2
 brew harfbuzz
