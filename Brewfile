@@ -69,6 +69,18 @@ brew xz
 brew yarn
 
 tap caskroom/cask
+
+tap caskroom/versions
+
+tap argon/mas
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+brew ricty
+
+# Other Cask applications
 cask atom
 cask blender
 cask cyberduck
@@ -76,6 +88,7 @@ cask drawio
 cask firefox
 cask freemind
 cask google-chrome
+cask google-earth
 cask gyazo
 cask ifunbox
 cask iterm2
@@ -91,19 +104,6 @@ cask thunderbird
 cask visual-studio-code
 cask xld
 cask xquartz
-
-tap caskroom/versions
-
-tap argon/mas
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-brew ricty
-
-# Other Cask applications
-cask google-earth
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
