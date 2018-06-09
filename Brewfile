@@ -68,9 +68,21 @@ brew utf8proc
 brew xz
 brew yarn
 
-tap caskroom/cask
+tap homebrew/cask-versions
 
-tap caskroom/versions
+tap homebrew/cask
+cask atom
+cask cyberduck
+cask firefox
+cask google-chrome
+cask gyazo
+cask iterm2
+cask kindle
+cask pycharm-ce
+cask skype
+cask sublime-text
+cask visual-studio-code
+cask xquartz
 
 tap argon/mas
 
@@ -81,29 +93,17 @@ tap sanemat/font
 brew ricty
 
 # Other Cask applications
-cask atom
 cask blender
-cask cyberduck
 cask drawio
-cask firefox
 cask freemind
-cask google-chrome
 cask google-earth
-cask gyazo
 cask ifunbox
-cask iterm2
 cask java
-cask kindle
 cask onyx
-cask pycharm-ce
 cask sequel-pro
-cask skype
 cask slack
-cask sublime-text
 cask thunderbird
-cask visual-studio-code
 cask xld
-cask xquartz
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
@@ -112,9 +112,9 @@ appstore 408981434 iMovie (10.1.9)
 appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
 appstore 409183694 Keynote (8.0.1)
-appstore 539883307 LINE (5.7.0)
+appstore 539883307 LINE (5.8.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 540348655 Monosnap (3.4.14)
+appstore 540348655 Monosnap (3.4.15)
 appstore 409203825 Numbers (5.0.1)
 appstore 409201541 Pages (7.0.1)
 appstore 414298354 ToyViewer (5.5.1)
