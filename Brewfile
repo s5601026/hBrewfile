@@ -51,6 +51,7 @@ brew openssl@1.1
 brew p11-kit
 brew pango
 brew pcre
+brew phantomjs
 brew pixman
 brew pkg-config
 brew pyenv
