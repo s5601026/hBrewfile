@@ -108,7 +108,7 @@ cask xld
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
-appstore 682658836 GarageBand (10.2.0)
+appstore 682658836 GarageBand (10.3.0)
 appstore 408981434 iMovie (10.1.9)
 appstore 478844335 Janetter (4.4.0)
 appstore 409183694 Keynote (5.1.1)
