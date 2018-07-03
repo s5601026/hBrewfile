@@ -7,6 +7,7 @@ brew autoconf
 brew awscli
 brew c-ares
 brew cairo
+brew cmake
 brew curl
 brew dbus
 brew fontconfig
@@ -25,7 +26,7 @@ brew gobject-introspection
 brew graphite2
 brew harfbuzz
 brew icu4c
-brew imagemagick
+brew imagemagick@6
 brew inetutils
 brew jpeg
 brew jq
