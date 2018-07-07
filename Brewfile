@@ -62,6 +62,7 @@ brew python
 brew python@2
 brew rbenv
 brew readline
+brew redis
 brew ruby-build
 brew sqlite
 brew tmux
